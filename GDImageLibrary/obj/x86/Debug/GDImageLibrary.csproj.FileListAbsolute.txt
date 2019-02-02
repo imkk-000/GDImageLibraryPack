@@ -1,0 +1,6 @@
+C:\Users\Yummy PC\Downloads\GDImageLibrary Source\GDImageLibrary\obj\x86\Debug\GDImageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yummy PC\Downloads\GDImageLibrary Source\GDImageLibrary\bin\x86\Debug\GDImageLibrary.dll
+C:\Users\Yummy PC\Downloads\GDImageLibrary Source\GDImageLibrary\bin\x86\Debug\GDImageLibrary.pdb
+C:\Users\Yummy PC\Downloads\GDImageLibrary Source\GDImageLibrary\obj\x86\Debug\GDImageLibrary.csprojAssemblyReference.cache
+C:\Users\Yummy PC\Downloads\GDImageLibrary Source\GDImageLibrary\obj\x86\Debug\GDImageLibrary.dll
+C:\Users\Yummy PC\Downloads\GDImageLibrary Source\GDImageLibrary\obj\x86\Debug\GDImageLibrary.pdb
